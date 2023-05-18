@@ -7,7 +7,7 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
 
 ## Personal Projects
 
- - [Ephemeral Heart](https://www.ephemeralheart.com/) - A site where anonymous users submit messages which are then read and judged by other anonymous users.
+ - [Ephemeral Heart](https://www.ephemeralheart.com/) - A site where anonymous users submit messages which are then read and judged by other anonymous users.  
    Front end: Vanilla HTML, CSS, Greensock Animation Platform.  
    Back end: Node.js, Express.js, PostgreSQL, EJS Templating.  
    Hosted on a Debian VPS using Nginx as a reverse proxy and PM2 process manager for persistance. Set up from scratch.  
