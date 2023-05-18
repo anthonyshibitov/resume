@@ -7,12 +7,11 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
 
 ## Personal Projects
 
- - [Ephemeral Heart](https://www.ephemeralheart.com/)  
+ - [Ephemeral Heart](https://www.ephemeralheart.com/) - A site where anonymous users submit messages which are then read and judged by other anonymous users.
    Front end: Vanilla HTML, CSS, Greensock Animation Platform.  
    Back end: Node.js, Express.js, PostgreSQL, EJS Templating.  
    Hosted on a Debian VPS using Nginx as a reverse proxy and PM2 process manager for persistance. Set up from scratch.  
-   Users submit anonymous messages which are then read and judged by other strangers.
-
+   
  - More to come!
 
 ## Open Source Contributions
@@ -21,7 +20,7 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
 
 ## Education
 
- - Graduated from SUNY Fredonia in 2018 with a BS in Computer Science, with an Advanced Computing Concentration.  
+ - Graduated from [SUNY Fredonia](https://www.suny.edu/campuses/fredonia/) in 2018 with a BS in Computer Science, with an Advanced Computing Concentration.  
  - Studied abroad in St. Petersburg, Russia in the summer of 2018 at The Faculty of Liberal Arts and Sciences of Saint Petersburg State University for accelerated language courses.  
 
  - Undergraduate Projects
