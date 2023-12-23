@@ -22,12 +22,12 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
  - [activist](https://activist.org/) - activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
    Front end: Nuxt.js, Vue.js, Typescript, Tailwind CSS, Headless UI.  
    Back end: Django, PostgreSQL.  
-   [PR 165](https://github.com/activist-org/activist/pull/165)  
-   [PR 177](https://github.com/activist-org/activist/pull/177)  
-   [PR 195](https://github.com/activist-org/activist/pull/195)
-   [PR 266](https://github.com/activist-org/activist/pull/266)
-   [PR 595](https://github.com/activist-org/activist/pull/595)
-   [PR 607](https://github.com/activist-org/activist/pull/607)
+   [PR 165](https://github.com/activist-org/activist/pull/165) - Safari mobile bugfix  
+   [PR 177](https://github.com/activist-org/activist/pull/177) - Create component  
+   [PR 195](https://github.com/activist-org/activist/pull/195) - Create component  
+   [PR 266](https://github.com/activist-org/activist/pull/266) - Create component  
+   [PR 595](https://github.com/activist-org/activist/pull/595) - Refactor modal component  
+   [PR 607](https://github.com/activist-org/activist/pull/607) - Refactor search component  
 
 
 ## Education
