@@ -12,10 +12,10 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
    Back end: Node.js, Express.js, PostgreSQL, EJS Templating.  
    Hosted on a Debian VPS using Nginx as a reverse proxy and PM2 process manager for persistance. Set up from scratch.  
    
- - [JASPER (live link coming soon)](#)
-   An online Portable Executable reversing tool, for 32 and 64-bit files.
-   Built entirely in javascript, executed client-side.
-   Supports imports, exports, PE header parsing, sections headers, relocations, and more. provides information to quickly triage samples.
+ - [JASPER (live link coming soon)](#)  
+   An online Portable Executable reversing tool, for 32 and 64-bit files.  
+   Built entirely in javascript, executed client-side.  
+   Supports imports, exports, PE header parsing, sections headers, relocations, and more. Provides information to quickly triage samples.  
 
 ## Open Source Contributions
 
