@@ -12,11 +12,23 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
    Back end: Node.js, Express.js, PostgreSQL, EJS Templating.  
    Hosted on a Debian VPS using Nginx as a reverse proxy and PM2 process manager for persistance. Set up from scratch.  
    
- - More to come!
+ - [JASPER (live link coming soon)](#)
+   An online Portable Executable reversing tool, for 32 and 64-bit files.
+   Built entirely in javascript, executed client-side.
+   Supports imports, exports, PE header parsing, sections headers, relocations, and more. provides information to quickly triage samples.
 
 ## Open Source Contributions
 
- - Pending PR approvals :)
+ - [activist](https://activist.org/) - activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+   Front end: Nuxt.js, Vue.js, Typescript, Tailwind CSS, Headless UI.  
+   Back end: Django, PostgreSQL.  
+   [PR 165](https://github.com/activist-org/activist/pull/165)  
+   [PR 177](https://github.com/activist-org/activist/pull/177)  
+   [PR 195](https://github.com/activist-org/activist/pull/195)
+   [PR 266](https://github.com/activist-org/activist/pull/266)
+   [PR 595](https://github.com/activist-org/activist/pull/595)
+   [PR 607](https://github.com/activist-org/activist/pull/607)
+
 
 ## Education
 
