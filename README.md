@@ -19,7 +19,7 @@ Hi! I'm Anthony. I'm a 27 year old web developer based in New York. As of late I
 
 ## Open Source Contributions
 
- - [activist](https://activist.org/) - activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+ - [activist](https://activist.org/) - activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.  
    Front end: Nuxt.js, Vue.js, Typescript, Tailwind CSS, Headless UI.  
    Back end: Django, PostgreSQL.  
    [PR 165](https://github.com/activist-org/activist/pull/165) - Safari mobile bugfix  
